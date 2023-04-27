@@ -5,7 +5,7 @@
     text-decoration: none;
     list-style: none;
     scroll-behavior: smooth;
-    max-width: 100vh;
+
     
 }
 header{
@@ -413,12 +413,12 @@ tr{
     justify-content: center;
     width: 1000px;
     height: 600px;
+    box-shadow: 0 8px 16px 0 grey;
     column-count: 2;
     padding: 10px;
     column-rule-style:groove;
     border-radius: 30px;
     margin-top: 20px;
-    background-image: url(images/weather.png);
 }
 
 .input{
